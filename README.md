@@ -6,6 +6,6 @@
 * **[PostgreSQL Project](URL)** - Node.js/Express app focused on RDBMS schema design and data persistence.
 
 ### 🎨 Frontend & Design Foundations
-* **[Project Name](URL)** - Responsive layout design using advanced CSS Grid and Flexbox.
+* **[Personal-Site](URL)** - A study in CSSOM manipulation and responsive design systems. Demonstrates the ability to marry aesthetic UI with semantic, performant HTML5 structures.
 * **[Project Name](URL)** - Implementation of semantic HTML5 and cross-browser compatibility.
 * **[Project Name](URL)** - UI/UX focused prototype demonstrating visual document flow.
