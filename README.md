@@ -8,4 +8,4 @@
 ### 🎨 Frontend & Design Foundations
 * **[Personal-Site](https://wen-xnova.github.io/Personal-Site/)** - A study in CSSOM manipulation and responsive design systems. Demonstrates the ability to marry aesthetic UI with semantic, performant HTML5 structures.
 * **[The Daily Grind Café](https://wen-xnova.github.io/Caf-menu/)** - A study in CSS Grid-based architectural layouts and fluid responsiveness. This project demonstrates modular grid implementation and Media Query breakpoints to maintain visual hierarchy and asset alignment across varying viewports.
-* **[Project Name](URL)** - UI/UX focused prototype demonstrating visual document flow.
+* **[Jordan Lee Photography](https://wen-xnova.github.io/Photographer/)** - A study in dynamic UI components and asynchronous asset loading. This project highlights the integration of Bootstrap Carousel systems and filtered hover-state transitions to create a performant, media-centric user experience.
