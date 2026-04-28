@@ -4,7 +4,7 @@
 
 ### 📊 Full-Stack & Data
 * **[API Integration Project](https://github.com/Wen-XNova/Morty-Sorty/tree/main)** - Node.js/Express app demonstrating third-party REST API consumption, asynchronous data handling, and server-side rendering with EJS.
-* **[Full-Stack Blog App](https://github.com/Wen-XNova/Morty-Sorty/tree/main)** - Node.js application demonstrating REST API development, complete CRUD operations, and microservice-style client/server decoupling.
+* **[Full-Stack CRUD Blog](https://github.com/Wen-XNova/Blog/tree/main)** - Node.js application demonstrating REST API development, complete CRUD operations, and microservice-style client/server decoupling.
 
 ### 🎨 Frontend & Design Foundations
 * **[Personal-Site](https://wen-xnova.github.io/Personal-Site/)** - A study in CSSOM manipulation and responsive design systems. Demonstrates the ability to marry aesthetic UI with semantic, performant HTML5 structures.
