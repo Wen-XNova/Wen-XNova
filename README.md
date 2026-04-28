@@ -3,7 +3,7 @@
 * **[Invoicing & Quotation System](https://github.com/Wen-XNova/Invoicing-Quotation-System/tree/main)** - Full-stack Invoice/Quotation system using .NET 8 (Web API) & React. Features a Service-oriented architecture, FluentValidation, and custom API Key security.
 
 ### 📊 Full-Stack & Data
-* **[PostgreSQL Project](URL)** - Node.js/Express app focused on RDBMS schema design and data persistence.
+* **[API Integration Project](URL)** - Node.js/Express app demonstrating third-party REST API consumption, asynchronous data handling, and server-side rendering with EJS.
 
 ### 🎨 Frontend & Design Foundations
 * **[Personal-Site](https://wen-xnova.github.io/Personal-Site/)** - A study in CSSOM manipulation and responsive design systems. Demonstrates the ability to marry aesthetic UI with semantic, performant HTML5 structures.
